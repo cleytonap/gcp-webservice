@@ -7,17 +7,27 @@ Commits to the github repository are automatically deployed via Cloud Run.
 
 Build Type: Google Cloud Buildpacks (rather than Dockerfile).
 
-### Author: Cleyton Andre Pires (cleytonap)
+Tags:
+  - Flask
+  - Python
+  - Container (using Buildpacks)
+  - GCP - Google Cloud Platform
+  - Cloud Build
+  - Continuous Deployment from Git
 
-### Date: 01-Jun-2022
-
-### References:
+## References:
 
 https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service
 
 https://cloud.google.com/run/docs/continuous-deployment-with-cloud-build
 
 
+## Author: 
+Cleyton Andre Pires (cleytonap)
 
+https://github.com/cleytonap/
+
+## Date:
+01-Jun-2022
 
 
